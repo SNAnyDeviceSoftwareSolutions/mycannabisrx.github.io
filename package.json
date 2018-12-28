@@ -1,0 +1,21 @@
+{
+  "name": "mycannabisrxweb",
+  "version": "1.0.0",
+  "description": "My Cannabis Rx Web application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://snanydevicess@bitbucket.org/mycannabisrx/mycannabisrxweb.git"
+  },
+  "author": "Sagar",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mycannabisrx/mycannabisrxweb#readme",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "angular-route": "^1.7.5",
+    "bootstrap": "^4.2.1"
+  }
+}

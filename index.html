@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyCannabisRx">
+
+<head>
+	<meta charset="UTF-8">
+	<title>My Cannabis Rx</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body style="background-color: #343a40;">
+
+	<!-- YOUR CONTENT TO LOAD -->
+
+	<div class="container-fluid">
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<a class="navbar-brand" href="#/!">My Cannabis Rx</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item">
+						<a class="nav-link" href="#!Download">Download</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#!AboutUs">About Us</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#!ContactUs">Contact Us</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#!FollowUs">Follow Us</a>
+					</li>
+				</ul>
+				<div class="nav-item">
+					<a href="#!Login" class="nav-link">Log in</a>
+				</div>
+			</div>
+		</nav>
+		<ng-view>
+
+		</ng-view>
+	</div>
+
+	<!-- Load scripts -->
+	<script src="/node_modules/angular/angular.min.js"></script>
+	<script src="/node_modules/angular-route/angular-route.min.js"></script>
+
+	<!-- Now load your scripts -->
+	<script src="/js/script.js"></script>
+	<script src="/js/home.js"></script>
+	<script src="/js/aboutus.js"></script>
+	<script src="/js/contactus.js"></script>
+	<script src="/js/download.js"></script>
+	<script src="/js/followus.js"></script>
+	<script src="/js/login.js"></script>
+</body>
+</html>
