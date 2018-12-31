@@ -1,12 +1,15 @@
 <div class="contactUs">
 	<h2 align="center">Contact Us</h2>
-	<form method="POST" action="https://formspree.io/sagar@mycannabisrx.net">
-		<div class="form-group">
+	<hr>
+	<form method="POST" action="https://formspree.io/sagarkothari@mycannabisrx.net">
+		<div class="form-group" style="width: 50%; margin: auto;">
 			<label for="Email" style="color: rgba(255, 255, 255, .5)">Email Address:</label>
 			<input type="email" class="form-control" name="email" aria-describedby="emailHelp" placeholder="Please enter your email address here.">
 			<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small><br>
 			<label for="Message" style="color: rgba(255, 255, 255, .5)">Message:</label>
 			<textarea class="form-control" name="message" rows="3" placeholder="Please enter your message here."></textarea><br>
+			<input type="hidden" name="_next" value="#!ThankYou" />
+			<input type="text" name="_gotcha" style="display:none" />
 			<button type="submit" class="btn btn-primary" style="width: 100%">Send</button>
 		</div>
 	</form>

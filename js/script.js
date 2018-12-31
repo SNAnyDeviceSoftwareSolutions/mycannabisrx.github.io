@@ -26,6 +26,10 @@
 				templateUrl: "views/login.html",
 				controller: "Login"
 			})
+			.when("/ThankYou", {
+				templateUrl: "views/thankyou.html",
+				controller: "ThankYou"
+			})
 			.otherwise({
 				redirectTo: '/'
 			});
