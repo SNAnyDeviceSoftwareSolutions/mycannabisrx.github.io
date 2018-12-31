@@ -10,8 +10,15 @@
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 
+	<!-- Firebase CSS	-->
+	<script src="https://cdn.firebase.com/libs/firebaseui/3.1.1/firebaseui.js"></script>
+	<link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/3.1.1/firebaseui.css" />
+
+
 	<!-- Custom CSS -->
 	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="styles/aboutus.css">
+	<link rel="stylesheet" href="styles/contactus.css">
 </head>
 
 <body style="background-color: #343a40;">
@@ -40,9 +47,11 @@
 						<a class="nav-link" href="#!FollowUs">Follow Us</a>
 					</li>
 				</ul>
+				<!--
 				<div class="nav-item">
 					<a href="#!Login" class="nav-link">Log in</a>
 				</div>
+-->
 			</div>
 		</nav>
 		<ng-view>
@@ -54,6 +63,26 @@
 	<script src="https://code.angularjs.org/1.7.5/angular.min.js"></script>
 	<script src="https://code.angularjs.org/1.7.5/angular-route.min.js"></script>
 
+	<!-- Firebase App is always required and must be first -->
+	<script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
+
+	<!-- Add additional services that you want to use -->
+	<script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-auth.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-firestore.js"></script>
+	<!--	<script src="https://www.gstatic.com/firebasejs/5.7.2/firebase.js"></script>-->
+	<script>
+		// Initialize Firebase
+		var config = {
+			apiKey: "AIzaSyDbDZYZepkPgWv47jaXvBSRde7sTGMK-ss",
+			authDomain: "cannabizrx.firebaseapp.com",
+			databaseURL: "https://cannabizrx.firebaseio.com",
+			projectId: "cannabizrx",
+			storageBucket: "cannabizrx.appspot.com",
+			messagingSenderId: "792553419256"
+		};
+		firebase.initializeApp(config);
+	</script>
+
 	<!-- Now load your scripts -->
 	<script src="/js/script.js"></script>
 	<script src="/js/home.js"></script>
@@ -62,6 +91,7 @@
 	<script src="/js/download.js"></script>
 	<script src="/js/followus.js"></script>
 	<script src="/js/login.js"></script>
+
 </body>
 
 </html>

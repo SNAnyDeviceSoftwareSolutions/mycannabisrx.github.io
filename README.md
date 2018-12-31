@@ -1,3 +1,0 @@
-# MyCannabisRxWeb
-
-Web Project
