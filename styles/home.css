@@ -1,21 +1,30 @@
-.contactUs h2 {
+.home div p {
+	color: rgba(255, 255, 255, .5);
+}
+
+.home img {
+	border-radius: 50%;
+	display: block;
+	border: 2px solid aquamarine;
+	width: 250px;
+	height: 250px;
+	background: white;
+}
+
+.home h3 {
+	color: rgba(255, 255, 255, .5);
+}
+
+.home h5 {
+	color: rgba(255, 255, 255, .5);
+}
+
+.home h2 {
 	color: rgba(255, 255, 255, .5);
 	text-align: center;
 }
 
-#red {
-	color: aquamarine;
-}
-
-.contactUs h4 {
-	color: rgba(255, 255, 255, .5);
-}
-
-.contactUs p {
-	color: rgba(255, 255, 255, .5);
-}
-
-.contactUs hr {
+.home hr {
 	display: block;
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
@@ -24,9 +33,4 @@
 	border-style: inset;
 	border-width: 1px;
 	color: aqua;
-}
-
-.contactUs address {
-	color: rgba(255, 255, 255, .5);
-	text-align: center;
 }
