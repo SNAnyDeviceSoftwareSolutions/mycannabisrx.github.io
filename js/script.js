@@ -1,5 +1,5 @@
 (function () {
-	var app = angular.module("MyCannabisRx", ["ngRoute", 'addthis']);
+	var app = angular.module("MyCannabisRx", ["ngRoute", "addthis"]);
 	app.config(function ($addthisProvider) {
 		var cfg = {
 			'pubid': 'ra-5c3aee4d5ea20450'
