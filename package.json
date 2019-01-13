@@ -13,5 +13,8 @@
   "author": "Sagar",
   "license": "ISC",
   "homepage": "https://bitbucket.org/mycannabisrx/mycannabisrxweb#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@oracle/addthis-angularjs": "^1.0.4",
+    "save": "^2.3.3"
+  }
 }

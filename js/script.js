@@ -1,5 +1,11 @@
 (function () {
-	var app = angular.module("MyCannabisRx", ["ngRoute"]);
+	var app = angular.module("MyCannabisRx", ["ngRoute", 'addthis']);
+	app.config(function ($addthisProvider) {
+		var cfg = {
+			'pubid': 'ra-5c3aee4d5ea20450'
+		};
+		$addthisProvider.config(cfg);
+	});
 	app.config(function ($routeProvider) {
 		$routeProvider
 			.when("/", {
@@ -17,10 +23,6 @@
 			.when("/ContactUs", {
 				templateUrl: "views/contactus.html",
 				controller: "Contact"
-			})
-			.when("/FollowUs", {
-				templateUrl: "views/followus.html",
-				controller: "Follow"
 			})
 			.when("/Login", {
 				templateUrl: "views/login.html",
