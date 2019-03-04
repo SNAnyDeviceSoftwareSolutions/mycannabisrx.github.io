@@ -1,0 +1,106 @@
+[
+  {
+    "display": "ADD/ADHD",
+    "value": "addadhd"
+  },
+  {
+    "display": "Alzheimer's",
+    "value": "alzheimers"
+  },
+  {
+    "display": "Anorexia",
+    "value": "anorexia"
+  },
+  {
+    "display": "Anxiety",
+    "value": "anxiety"
+  },
+  {
+    "display": "Arthritis",
+    "value": "arthritis"
+  },
+  {
+    "display": "Asthma",
+    "value": "asthma"
+  },
+  {
+    "display": "Bipolar Disorder",
+    "value": "bipolar-disorder"
+  },
+  {
+    "display": "Cachexia",
+    "value": "cachexia"
+  },
+  {
+    "display": "Cancer",
+    "value": "cancer"
+  },
+  {
+    "display": "Crohn's Disease",
+    "value": "crohns-disease"
+  },
+  {
+    "display": "Epilepsy",
+    "value": "epilepsy"
+  },
+  {
+    "display": "Fibromyalgia",
+    "value": "fibromyalgia"
+  },
+  {
+    "display": "Gastrointestinal Disorder",
+    "value": "gastrointestinal-disorder"
+  },
+  {
+    "display": "Glaucoma",
+    "value": "glaucoma"
+  },
+  {
+    "display": "HIV/AIDS",
+    "value": "hivaids"
+  },
+  {
+    "display": "Hypertension",
+    "value": "hypertension"
+  },
+  {
+    "display": "Migraines",
+    "value": "migraines"
+  },
+  {
+    "display": "Multiple Sclerosis",
+    "value": "multiple-sclerosis"
+  },
+  {
+    "display": "Muscular Dystrophy",
+    "value": "muscular-dystrophy"
+  },
+  {
+    "display": "Parkinson's",
+    "value": "parkinsons"
+  },
+  {
+    "display": "Phantom Limb Pain",
+    "value": "phantom-limb-pain"
+  },
+  {
+    "display": "PMS",
+    "value": "pms"
+  },
+  {
+    "display": "PTSD",
+    "value": "ptsd"
+  },
+  {
+    "display": "Spinal Cord Injury",
+    "value": "spinal-cord-injury"
+  },
+  {
+    "display": "Tinnitus",
+    "value": "tinnitus"
+  },
+  {
+    "display": "Tourettes Syndrome",
+    "value": "tourettes-syndrome"
+  }
+]

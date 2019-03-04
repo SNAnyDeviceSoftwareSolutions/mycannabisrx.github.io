@@ -4,8 +4,6 @@ modal-id: 3
 date: 2014-07-16
 img: more.jpg
 alt: image-alt
-project-date: March 2019
-category: More
 description: From this screen, one can explore strains, see news from different cannabis news providers, explore state level cannabis information, dispensaries. One can also update his/her profile and medical conditions. It is very easy to connect with your 1upHealth as well.
 
 ---

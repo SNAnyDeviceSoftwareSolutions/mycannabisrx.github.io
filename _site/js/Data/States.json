@@ -1,0 +1,336 @@
+[
+    {
+        "abbreviation": "AL",
+        "state": "Alabama",
+        "govUrl": "http://www.uab.edu/medicine/neurology/research/uab-cannabidiol-program",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/AL",
+        "conditions": [
+            "Severe, debilitating epileptic conditions"
+        ],
+        "conditionsValue": "High-CBD forms of cannabis is only allowed for use in a state-sponsored clinical trial for treating:\n - Severe, debilitating epileptic conditions",
+        "moreInfo": [
+          { 
+            "title":"University of Alabama Cannabidiol Program",
+            "link": "http://www.uab.edu/medicine/neurology/research/uab-cannabidiol-program"
+          }
+        ]
+    },
+    {
+        "abbreviation": "AK",
+        "state": "Alaska",
+        "govUrl": "http://dhss.alaska.gov/dph/VitalStats/Pages/marijuana.aspx",
+        "status": "Medical & recreational ",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/AK/1#",
+        "conditions": [
+            "Cancer",
+            "Glaucoma",
+            "HIV/AIDS",
+            "Cachexia (wasting syndrome)",
+            "Severe pain",
+            "Severe nausea",
+            "Seizures",
+            "Epilepsy",
+            "Muscle spasms",
+            "Sclerosis"
+        ],
+        "conditionsValue": "Qualifying conditions to become a medical marijuana patient in Alaska include:\n- Cancer\n- Glaucoma\n- HIV/AIDS\n- Any chronic or debilitating disease or treatment for such diseases, which produces:\n  - Cachexia (wasting syndrome)\n  - Severe pain\n  - Severe nausea\n  - Seizures, including those that are characteristic of epilepsy\n  - Persistent muscle spasms, including those that are characteristic of multiple sclerosis",
+        "moreInfo": [
+          "http://www.akleg.gov/basis/Bill/Plaintext/21?Hsid=SB0094E",
+
+        ]
+    },
+    {
+        "abbreviation": "AZ",
+        "state": "Arizona ",
+        "govUrl": "https://medicalmarijuana.azdhs.gov",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/AZ/1",
+        "conditions": [
+            "Cancer",
+            "Glaucoma",
+            "HIV/AIDS",
+            "Hepatitis C",
+            "Amyotrophic lateral sclerosis/Lou Gehrig’s disease",
+            "Crohn’s disease",
+            "Agitation of Alzheimer’s disease",
+            "Cachexia (wasting syndrome)",
+            "Severe and chronic pain",
+            "Severe nausea",
+            "Seizures",
+            "Epilepsy",
+            "Muscle spasms",
+            "Sclerosis",
+            "Stress disorder"
+        ],
+        "conditionsValue": "Qualifying conditions to become a medical marijuana patient in Arizona include:\n- Cancer\n- Glaucoma\n- HIV/AIDS\n- Hepatitis C\n- Amyotrophic lateral sclerosis/Lou Gehrig’s disease\n- Crohn’s disease\n- Agitation of Alzheimer’s disease\n- A chronic or debilitating condition or its treatment that produces one or more of the following:\n- Cachexia (wasting syndrome)\n- Severe and chronic pain\n- Severe nausea\n- Seizures, including those characteristic of epilepsy\n- Severe or persistent muscle spasms, including those characteristic of multiple sclerosis\n- Post-traumatic stress disorder\n",
+        "moreInfo": "http://www.azleg.gov/viewdocument/?docName=http://www.azleg.gov/ars/36/02801.htm"
+    },
+    {
+        "abbreviation": "AR",
+        "state": "Arkansas",
+        "govUrl": "https://ammsys.adh.arkansas.gov",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/AR/1",
+        "conditions": [
+            "Cancer",
+            "Glaucoma",
+            "HIV/AIDS",
+            "Hepatitis C",
+            "Amyotrophic lateral sclerosis/Lou Gehrig’s disease",
+            "Tourette’s Syndrome",
+            "Crohn’s disease",
+            "Ulcerative colitis",
+            "Post-traumatic stress disorder (PTSD)",
+            "Severe arthritis",
+            "Fibromyalgia",
+            "Alzheimer’s disease",
+            "Cachexia or wasting syndrome",
+            "Peripheral neuropathy",
+            "Intractable pain",
+            "Severe nausea",
+            "Seizures",
+            "Epilepsy",
+            "Muscle spasms",
+            "Sclerosis"
+        ],
+        "conditionsValue": "Qualifying conditions for the Arkansas Medical Marijuana Amendment include:\n\n- Cancer\n- Glaucoma\n- HIV/AIDS\n- Hepatitis C\n- Amyotrophic lateral sclerosis/Lou Gehrig’s disease\n- Tourette’s Syndrome\n- Crohn’s disease\n- Ulcerative colitis\n- Post-traumatic stress disorder (PTSD)\n- Severe arthritis\n- Fibromyalgia\n- Alzheimer’s disease\n- A chronic or debilitating disease that produces:\n    - Cachexia or wasting syndrome\n    - Peripheral neuropathy\n    - Intractable pain\n    - Severe nausea\n    - Seizures, including those characteristic of epilepsy\n    - Severe or persistent muscle spasms, including those characteristic of multiple sclerosis\n",
+        "moreInfo": "http://www.healthy.arkansas.gov/Pages/MedMarijuana.aspx"
+    },
+    {
+        "abbreviation": "CA",
+        "state": "California",
+        "govUrl": "https://www.cdph.ca.gov/Programs/PSB/Pages/Marijuana.aspx",
+        "status": "Medical & recreational",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/CA/1",
+        "conditions":[
+          "Cancer",
+          "Anorexia",
+          "AIDS",
+          "Chronic pain",
+          "Spasticity",
+          "Cachexia",
+          "Muscle spasms",
+          "Multiple sclerosis",
+          "Seizures", 
+          "Epilepsy",
+          "Severe nausea",
+          "Glaucoma",
+          "Arthritis",
+          "Migraines",
+          "Any other chronic or persistent medical symptom that substantially limits the ability of the person to conduct one or more major life activities (as defined by the Americans with Disabilities Act of 1990) or, if not alleviated, may cause serious harm to the patient’s safety or physical or mental health"
+        ],
+        "conditionsValue": "Qualifying conditions to become a medical marijuana patient in California include:\n\n- Cancer\n- Anorexia\n- AIDS\n- Chronic pain\n- Spasticity\n- Cachexia\n- Persistent muscle spasms, including those associated with multiple sclerosis\n- Seizures, including, but not limited to, those associated with epilepsy\n- Severe nausea\n- Glaucoma\n- Arthritis\n- Migraines\n- Any other chronic or persistent medical symptom that substantially limits the ability of the person to conduct one or more major life activities (as defined by the Americans with Disabilities Act of 1990) or, if not alleviated, may cause serious harm to the patient’s safety or physical or mental health\n",
+        "moreInfo": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=HSC&division=10.&title=&part=&chapter=6.&article=2.5."
+    },
+    {
+        "abbreviation": "CO",
+        "state": "Colorado ",
+        "govUrl": "https://www.colorado.gov/pacific/cdphe/how-apply-colorado-medical-marijuana-card",
+        "status": "Medical & recreational",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/CO/1"
+    },
+    {
+        "abbreviation": "CT",
+        "state": "Connecticut ",
+        "govUrl": "https://biznet.ct.gov/AccountMaint/Login.aspx",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/CT/1"
+    },
+    {
+        "abbreviation": "DE",
+        "state": "Delaware",
+        "govUrl": "http://dhss.delaware.gov/dph/hsp/medmarpt.html",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/DE/1"
+    },
+    {
+        "abbreviation": "DC",
+        "state": "Washington DC",
+        "govUrl": "https://dchealth.dc.gov/publication/medical-marijuana-patient-application-form-paper1",
+        "status": "Medical & recreational ",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/DC"
+    },
+    {
+        "abbreviation": "FL",
+        "state": "Florida",
+        "govUrl": "http://www.floridahealth.gov/programs-and-services/office-of-compassionate-use/compassionate-use-registry/registry-id-cards/index.html",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/FL/1"
+    },
+    {
+        "abbreviation": "HI",
+        "state": "Hawaii",
+        "govUrl": "http://health.hawaii.gov/medicalcannabisregistry/application-information/",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/HI/1"
+    },
+    {
+        "abbreviation": "IL",
+        "state": "Illinois",
+        "govUrl": "http://www.dph.illinois.gov/topics-services/prevention-wellness/medical-cannabis/medical-cannabis-registry-application",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/IL/1"
+    },
+    {
+        "abbreviation": "LA",
+        "state": "Louisiana",
+        "govUrl": "http://ldh.la.gov/index.cfm/page/2892",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/LA/1"
+    },
+    {
+        "abbreviation": "ME",
+        "state": "Maine",
+        "govUrl": "https://www.maine.gov/dhhs/mecdc/public-health-systems/mmm/index.shtml",
+        "status": "Medical & recreational",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/ME/1"
+    },
+    {
+        "abbreviation": "MD",
+        "state": "Maryland",
+        "govUrl": "http://mmcc.maryland.gov/Pages/home.aspx",
+        "status": "Medical ",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/MD/1"
+    },
+    {
+        "abbreviation": "MA",
+        "state": "Massachusetts ",
+        "govUrl": "https://www.mass.gov/how-to/register-as-a-patient-with-the-medical-use-of-marijuana-program",
+        "status": "Medical & recreational ",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/MA/1"
+    },
+    {
+        "abbreviation": "MI",
+        "state": "Michigan",
+        "govUrl": "https://www.michigan.gov/lara/0,4601,7-154-79571_79575_79579---,00.html",
+        "status": "Medical & recreational ",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/MI/1"
+    },
+    {
+        "abbreviation": "MN",
+        "state": "Minnesota",
+        "govUrl": "http://www.health.state.mn.us/topics/cannabis/patients/index.html",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/MN/1"
+    },
+    {
+        "abbreviation": "MT",
+        "state": "Montana",
+        "govUrl": "https://dphhs.mt.gov/marijuana",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/MT/1"
+    },
+    {
+        "abbreviation": "NV",
+        "state": "Nevada",
+        "govUrl": "http://dpbh.nv.gov/Reg/MM-Patient-Cardholder-Registry/dta/Forms/Medical_Marijuana_Patient_Cardholder_Registry_-_Forms/",
+        "status": "Medical & recreational",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/NV/1"
+    },
+    {
+        "abbreviation": "NH",
+        "state": "New Hampshire",
+        "govUrl": "https://www.dhhs.nh.gov/oos/tcp/applications-forms.htm",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/NH/1"
+    },
+    {
+        "abbreviation": "NJ",
+        "state": "New Jersey",
+        "govUrl": "https://www.nj.gov/health/medicalmarijuana/",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/NJ/1"
+    },
+    {
+        "abbreviation": "NM",
+        "state": "New Mexico",
+        "govUrl": "https://nmhealth.org/about/mcp/svcs/",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/NM/1"
+    },
+    {
+        "abbreviation": "NY",
+        "state": "New York",
+        "govUrl": "https://www.health.ny.gov/regulations/medical_marijuana/patients/",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/NY/1"
+    },
+    {
+        "abbreviation": "OH",
+        "state": "Ohio",
+        "govUrl": "https://medicalmarijuana.ohio.gov/patients-caregivers",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/OH/1"
+    },
+    {
+        "abbreviation": "OR",
+        "state": "Oregon",
+        "govUrl": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/CHRONICDISEASE/MEDICALMARIJUANAPROGRAM/Pages/forms.aspx",
+        "status": "Medical & recreational",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/OR/1"
+    },
+    {
+        "abbreviation": "PA",
+        "state": "Pennsylvania ",
+        "govUrl": "https://www.pa.gov/guides/pennsylvania-medical-marijuana-program/#PatientsandCaregivers",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/PA/1"
+    },
+    {
+        "abbreviation": "RI",
+        "state": "Rhode Island ",
+        "govUrl": "http://www.health.ri.gov/healthcare/medicalmarijuana/for/patients/",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/RI/1"
+    },
+    {
+        "abbreviation": "VT",
+        "state": "Vermont",
+        "govUrl": "http://medicalmarijuana.vermont.gov/applications-and-forms",
+        "status": "Medical & recreational",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/VT/1"
+    },
+    {
+        "abbreviation": "WA",
+        "state": "Washington ",
+        "govUrl": "https://www.doh.wa.gov/YouandYourFamily/Marijuana/MedicalMarijuana",
+        "status": "Medical & recreational",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/WA/1"
+    },
+    {
+        "abbreviation": "OK",
+        "state": "Oklahoma ",
+        "govUrl": "http://omma.ok.gov/adult-patient-application-information2",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/OK/1"
+    },
+    {
+        "abbreviation": "ND",
+        "state": "North Dakota ",
+        "govUrl": "https://www.ndhealth.gov/mm/",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/ND/1"
+    },
+    {
+        "abbreviation": "WV",
+        "state": "West Virginia ",
+        "govUrl": "https://dhhr.wv.gov/bph/Pages/Medical-Cannabis-Program.aspx",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/WV/1"
+    },
+    {
+        "abbreviation": "UT",
+        "state": "Utah",
+        "govUrl": "https://health.utah.gov/medical-cannabis",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/UT/1"
+    },
+    {
+        "abbreviation": "MO",
+        "state": "Missouri ",
+        "govUrl": "https://www.msma.org/medical-marijuana.html",
+        "status": "Medical",
+        "centers": "https://www.leafbuyer.com/listings/dispensaries/MO/1"
+    }
+]
