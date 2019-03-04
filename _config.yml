@@ -1,0 +1,46 @@
+# Site settings
+title: My Cannabis Rx
+email: gio@mycannabisrx.net
+url: https://mycannabisrx.net
+description: "The MyCannabisRx mobile app allows you to track your medical cannabis use and share results with your doctor."
+keywords: "cannabis, medical, patient, united states of america, USA, Track, Trend, Send, physician"
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: MyCannabisRx
+  location: MyCannabisRx
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://m.facebook.com/mycannarx/
+  - title: instagram
+    url: https://www.instagram.com/_mycannabisrx/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 125 Providence St Unit S508
+  - line: West Warwick, RI 02893 
+
+# Build settings
+markdown: kramdown
+permalink: pretty

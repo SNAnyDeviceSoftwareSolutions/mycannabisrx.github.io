@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2019-03-04
+img: reports.jpg
+alt: image-alt
+project-date: March 2019
+category: Reports
+project: Reports on Dashboard
+description: This is the dashboard of MyCannabisRx iOS application. By tapping on reports button from bottom-center, one can view different types of reports. For example, here we've hightlighted strains report. There are many more types of reports. To view them, tap on report name from top-horizontal-scrollable-list.
+
+---

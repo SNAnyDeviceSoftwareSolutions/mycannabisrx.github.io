@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2019-03-04
+img: dashboard.jpg
+alt: image-alt
+project-date: March 2019
+category: Dashboard
+description: This is the dashboard of MyCannabisRx iOS application. Using `+` button from bottom-right corner, one can add a session. By changing month from calendar, user can view past cannabis session. By tapping buttons from bottom-corner, one can switch to calendar view, List of sessions view or reports view.
+
+---
